@@ -1,0 +1,3 @@
+filename:ELcor_WireNumbers_20230411.xls
+lines to delete:PE,SH,=+
+items to keep:-CV,-TT

@@ -1,0 +1,7 @@
+filename:Elcor_WireNumbers_20230426.xls
+lines to delete:PE,SH,EXT,PNM
+lines to keep:CV,TT
+delete power wire numbers:Yes
+pitch: 5
+prefix: ==>
+suffix:<==
